@@ -1,1 +1,4 @@
+*.swp
+environments/
 hieradata/nodes/example-puppet-master.yaml
+
